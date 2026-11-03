@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="banner.svg" alt="Automation Portfolio banner" width="100%"/>
 
 # Dilan Ulloa Corrales
 ### Developer | Process Automation | Payroll and Finance Operations
