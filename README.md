@@ -17,9 +17,10 @@ Developer specializing in process automation for payroll, accounting, and reconc
 
 ## Technical Skills
 
-- **Programming and tools:** VBA, Excel (advanced), Python
-- **Enterprise systems:** SAP, CloudPay
-- **Automation platforms:** Power Automate
+- **Programming and tools:** VBA, Excel (advanced), Python, JavaScript 
+- **Enterprise systems:** SAP, CloudPay, Blackline, Cisco, Dominio Web. 
+- **Automation platforms:** Power Automate, Alteryx, Excel. 
+- **Languages:** Spanish, English and Portuguese.
 
 ## Featured Projects
 
